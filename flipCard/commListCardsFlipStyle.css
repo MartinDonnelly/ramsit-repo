@@ -106,7 +106,7 @@
 
 .back {
   transform: rotateY(180deg);
-  background-color: yellow;
+  background-color: red;
   color: #505050;
   text-align: left;
   border: 1px solid black;
